@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="1957" started-at="2017-09-24T16:14:54Z" finished-at="2017-09-24T16:14:56Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="1957" started-at="2017-09-24T16:14:54Z" finished-at="2017-09-24T16:14:56Z">
+      <class name="com.practice.google.GoogelTestCases">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.practice.google.GoogelTestCases@5e5792a0]" name="setUp" is-config="true" duration-ms="4489" started-at="2017-09-24T12:14:50Z" finished-at="2017-09-24T12:14:54Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="getToAccountForm()[pri:0, instance:com.practice.google.GoogelTestCases@5e5792a0]" name="getToAccountForm" duration-ms="1882" started-at="2017-09-24T12:14:54Z" finished-at="2017-09-24T12:14:56Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getToAccountForm -->
+        <test-method status="PASS" signature="verifyForm()[pri:1, instance:com.practice.google.GoogelTestCases@5e5792a0]" name="verifyForm" duration-ms="53" started-at="2017-09-24T12:14:56Z" finished-at="2017-09-24T12:14:56Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyForm -->
+        <test-method status="PASS" signature="closeBrowser()[pri:0, instance:com.practice.google.GoogelTestCases@5e5792a0]" name="closeBrowser" is-config="true" duration-ms="1017" started-at="2017-09-24T12:14:56Z" finished-at="2017-09-24T12:14:57Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
+      </class> <!-- com.practice.google.GoogelTestCases -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
